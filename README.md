@@ -1,1 +1,3 @@
-# guess_the_word
+# Guess the Word
+
+## You have 8 guesses
